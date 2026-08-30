@@ -5,6 +5,13 @@
   <img src="../assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX - Team <Team Name> <br/>
+## SIH26-A0H-T392 - Team ChatGPTers <br/>
 
 ### PS#1 
+* **Problem Statement ID:** SIH26133
+* **Problem Statement Title:** Accessibility
+and quality of public healthcare services,
+particularly in rural and underserved
+areas
+* **Theme / Category:** MedTech /BioTech / HealthTech  /  Software
+* **Ministry / Organization:**	Government Of Maharashtra
